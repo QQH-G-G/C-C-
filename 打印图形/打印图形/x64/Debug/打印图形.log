@@ -1,0 +1,8 @@
+﻿  打印图形.cpp
+C:\Users\26648\Desktop\Study\c语言\vs作业\打印图形\打印图形\打印图形.cpp(21,1): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\26648\Desktop\Study\c语言\vs作业\打印图形\打印图形\打印图形.cpp(322,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\26648\Desktop\Study\c语言\vs作业\打印图形\打印图形\打印图形.cpp(322,6): warning C4101: “i”: 未引用的局部变量
+  注释.cpp
+  正在生成代码...
+  LINK : 没有找到 C:\Users\26648\Desktop\Study\c语言\vs作业\打印图形\x64\Debug\打印图形.exe 或上一个增量链接没有生成它；正在执行完全链接
+  打印图形.vcxproj -> C:\Users\26648\Desktop\Study\c语言\vs作业\打印图形\x64\Debug\打印图形.exe
